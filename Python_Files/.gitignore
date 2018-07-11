@@ -1,0 +1,14 @@
+cocoapi/
+frozen_inference_graph.pb
+AUTHORS
+CODEOWNERS
+CONTRIBUTING.md
+ISSUE_TEMPLATE.md
+LICENSE
+README.md
+WORKSPACE
+official
+research
+samples
+tutorials
+nomo.cpython-35.pyc
